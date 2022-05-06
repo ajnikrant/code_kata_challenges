@@ -23,3 +23,11 @@ def reverse_it(start_, end_)
     puts reverse_it(1,3)
     puts reverse_it(1,20)
     puts reverse_it(4,10)
+
+    
+
+    # most clever response on CodeWars:
+
+    # def dont_give_me_five(start,end_)
+    #   (start..end_).count { | i | not i.to_s.include? '5' }
+    # end
