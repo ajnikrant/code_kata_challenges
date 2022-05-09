@@ -31,3 +31,6 @@ def reverse_it(start_, end_)
     # def dont_give_me_five(start,end_)
     #   (start..end_).count { | i | not i.to_s.include? '5' }
     # end
+
+
+    # ctrl opt N to run console script
