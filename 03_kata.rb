@@ -16,7 +16,7 @@ def is_square(x)
     end
 
 
-very good solution: 
-def is_square(x)
-    x < 0 ? false : Math.sqrt(x) % 1 == 0
-  end
+# very good solution: 
+# def is_square(x)
+#     x < 0 ? false : Math.sqrt(x) % 1 == 0
+#   end
